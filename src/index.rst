@@ -8,7 +8,7 @@ PHPUnit マニュアル
 
 Sebastian Bergmann
 
-この作品は、Creative Commons Attribution 3.0 Unported License の下でライセンスされています。
+この成果物は、Creative Commons Attribution 3.0 Unported License の下でライセンスされています。
 
 目次
 
